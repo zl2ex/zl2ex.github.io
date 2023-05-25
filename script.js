@@ -1,2 +1,2 @@
-document.getElementById("body").style = "background-color: red";
+document.getElementById("body").style.background = "red";
 console.log("test");
